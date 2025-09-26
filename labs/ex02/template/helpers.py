@@ -60,7 +60,7 @@ def batch_iter(y, tx, batch_size, num_batches=1, shuffle=True):
 
     Example:
 
-     Number of batches = 9
+     Number of batches = 39
 
      Batch size = 7                              Remainder = 3
      v     v                                         v v
